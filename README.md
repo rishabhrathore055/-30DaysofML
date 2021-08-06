@@ -3,3 +3,4 @@
 * [Day2 NoteBook](https://github.com/rishabhrathore055/-30DaysofML/tree/master/Day2)
 * [Day3 NoteBook](https://github.com/rishabhrathore055/-30DaysofML/tree/master/Day3)
 * [Day4 NoteBook](https://github.com/rishabhrathore055/-30DaysofML/tree/master/Day4)
+* [Day5 NoteBook](https://github.com/rishabhrathore055/-30DaysofML/tree/master/Day5)
