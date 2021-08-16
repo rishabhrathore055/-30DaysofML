@@ -12,3 +12,4 @@
 * [Day11 NoteBook](https://github.com/rishabhrathore055/-30DaysofML/tree/master/Day11)
 * [Day12 NoteBook](https://github.com/rishabhrathore055/-30DaysofML/tree/master/Day12)
 * [Day13 NoteBook](https://github.com/rishabhrathore055/-30DaysofML/tree/master/Day13)
+* [Day14 NoteBook](https://github.com/rishabhrathore055/-30DaysofML/tree/master/Day14)
